@@ -1,9 +1,9 @@
-Nama : Sitti Mahmudah
+Nama : Dwi Agustina
 
-NIM : E41201553
+NIM : E41200583
 
 Prodi : Teknik Informatika
 
-Gol : B Bondowoso
+Gol : A Bondowoso
 
 TUGAS Workshop Mobile Applications MINGGU 7 (Manajemen File pada Android)
